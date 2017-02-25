@@ -4,8 +4,7 @@
 # David McLaren
 # Project: BMI Calculator
 # Date: 2/27/2017
-# -----------------------------------------------------------------------------------------------------------------------------------------
-
+# --------------------------------------------------------------------------
 #This file contains the sources from where the files used to make
 #this project were taken. Citations:
 
