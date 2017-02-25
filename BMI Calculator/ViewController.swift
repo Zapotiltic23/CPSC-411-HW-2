@@ -1,7 +1,10 @@
 //--------------------------------------------------------------
 //  ViewController.swift
-//  BMI Calculator
 //
+//  Poject: BMI Calculator
+//  Class: CPSC 411
+//  Professor: David McLaren
+//  Date: 2/27/2017
 //  Created by Horacio A Sanchez on 2/13/17.
 //  Copyright © 2017 Horacio Sanchez. All rights reserved.
 //--------------------------------------------------------------
