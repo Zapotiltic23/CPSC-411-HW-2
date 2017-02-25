@@ -12,9 +12,6 @@
 		D71D98241E52EAAC00DF9D5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D71D98221E52EAAC00DF9D5E /* Main.storyboard */; };
 		D71D98261E52EAAD00DF9D5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D71D98251E52EAAD00DF9D5E /* Assets.xcassets */; };
 		D71D98291E52EAAD00DF9D5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D71D98271E52EAAD00DF9D5E /* LaunchScreen.storyboard */; };
-		D71D98311E52ED1B00DF9D5E /* defaultPhoto.png in Resources */ = {isa = PBXBuildFile; fileRef = D71D98301E52ED1B00DF9D5E /* defaultPhoto.png */; };
-		D71D98331E52F18600DF9D5E /* highlightedStar.png in Resources */ = {isa = PBXBuildFile; fileRef = D71D98321E52F18600DF9D5E /* highlightedStar.png */; };
-		D7BF6A051E5820EE0022CCE9 /* VerySevereObese.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D7BF69FC1E5820EE0022CCE9 /* VerySevereObese.jpg */; };
 		D7BF6A061E5820EE0022CCE9 /* VerySevereObese.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF69FD1E5820EE0022CCE9 /* VerySevereObese.png */; };
 		D7BF6A071E5820EE0022CCE9 /* SevereThinnes.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF69FE1E5820EE0022CCE9 /* SevereThinnes.png */; };
 		D7BF6A081E5820EE0022CCE9 /* SevereObese.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF69FF1E5820EE0022CCE9 /* SevereObese.png */; };
@@ -24,7 +21,6 @@
 		D7BF6A0C1E5820EE0022CCE9 /* ModerateObese.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF6A031E5820EE0022CCE9 /* ModerateObese.png */; };
 		D7BF6A0D1E5820EE0022CCE9 /* MildThinnes.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF6A041E5820EE0022CCE9 /* MildThinnes.png */; };
 		D7BF6A0F1E591DFE0022CCE9 /* wallpaper.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF6A0E1E591DFE0022CCE9 /* wallpaper.png */; };
-		D7BF6A171E594BB90022CCE9 /* backgroundView.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF6A161E594BB90022CCE9 /* backgroundView.png */; };
 		D7BF6A191E594D290022CCE9 /* wallpaper2.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF6A181E594D290022CCE9 /* wallpaper2.png */; };
 /* End PBXBuildFile section */
 
@@ -36,9 +32,6 @@
 		D71D98251E52EAAD00DF9D5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D71D98281E52EAAD00DF9D5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D71D982A1E52EAAD00DF9D5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D71D98301E52ED1B00DF9D5E /* defaultPhoto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = defaultPhoto.png; path = ../../FoodTracker/defaultPhoto.png; sourceTree = "<group>"; };
-		D71D98321E52F18600DF9D5E /* highlightedStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = highlightedStar.png; path = ../../FoodTracker/highlightedStar.png; sourceTree = "<group>"; };
-		D7BF69FC1E5820EE0022CCE9 /* VerySevereObese.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = VerySevereObese.jpg; sourceTree = SOURCE_ROOT; };
 		D7BF69FD1E5820EE0022CCE9 /* VerySevereObese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VerySevereObese.png; sourceTree = SOURCE_ROOT; };
 		D7BF69FE1E5820EE0022CCE9 /* SevereThinnes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SevereThinnes.png; sourceTree = SOURCE_ROOT; };
 		D7BF69FF1E5820EE0022CCE9 /* SevereObese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SevereObese.png; sourceTree = SOURCE_ROOT; };
@@ -48,7 +41,6 @@
 		D7BF6A031E5820EE0022CCE9 /* ModerateObese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ModerateObese.png; sourceTree = SOURCE_ROOT; };
 		D7BF6A041E5820EE0022CCE9 /* MildThinnes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MildThinnes.png; sourceTree = SOURCE_ROOT; };
 		D7BF6A0E1E591DFE0022CCE9 /* wallpaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wallpaper.png; path = ../wallpaper.png; sourceTree = "<group>"; };
-		D7BF6A161E594BB90022CCE9 /* backgroundView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = backgroundView.png; path = ../backgroundView.png; sourceTree = "<group>"; };
 		D7BF6A181E594D290022CCE9 /* wallpaper2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wallpaper2.png; path = ../wallpaper2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,9 +74,7 @@
 		D71D981D1E52EAAC00DF9D5E /* BMI Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				D7BF69FC1E5820EE0022CCE9 /* VerySevereObese.jpg */,
 				D7BF6A181E594D290022CCE9 /* wallpaper2.png */,
-				D7BF6A161E594BB90022CCE9 /* backgroundView.png */,
 				D7BF6A0E1E591DFE0022CCE9 /* wallpaper.png */,
 				D7BF69FD1E5820EE0022CCE9 /* VerySevereObese.png */,
 				D7BF69FE1E5820EE0022CCE9 /* SevereThinnes.png */,
@@ -94,8 +84,6 @@
 				D7BF6A021E5820EE0022CCE9 /* ModerateThinnes.png */,
 				D7BF6A031E5820EE0022CCE9 /* ModerateObese.png */,
 				D7BF6A041E5820EE0022CCE9 /* MildThinnes.png */,
-				D71D98321E52F18600DF9D5E /* highlightedStar.png */,
-				D71D98301E52ED1B00DF9D5E /* defaultPhoto.png */,
 				D71D981E1E52EAAC00DF9D5E /* AppDelegate.swift */,
 				D71D98201E52EAAC00DF9D5E /* ViewController.swift */,
 				D71D98221E52EAAC00DF9D5E /* Main.storyboard */,
@@ -165,19 +153,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7BF6A171E594BB90022CCE9 /* backgroundView.png in Resources */,
 				D7BF6A0B1E5820EE0022CCE9 /* ModerateThinnes.png in Resources */,
 				D7BF6A081E5820EE0022CCE9 /* SevereObese.png in Resources */,
 				D7BF6A191E594D290022CCE9 /* wallpaper2.png in Resources */,
-				D7BF6A051E5820EE0022CCE9 /* VerySevereObese.jpg in Resources */,
 				D7BF6A061E5820EE0022CCE9 /* VerySevereObese.png in Resources */,
-				D71D98331E52F18600DF9D5E /* highlightedStar.png in Resources */,
 				D71D98291E52EAAD00DF9D5E /* LaunchScreen.storyboard in Resources */,
 				D7BF6A0A1E5820EE0022CCE9 /* Normal.png in Resources */,
 				D7BF6A091E5820EE0022CCE9 /* Overweight.png in Resources */,
 				D71D98261E52EAAD00DF9D5E /* Assets.xcassets in Resources */,
 				D7BF6A0F1E591DFE0022CCE9 /* wallpaper.png in Resources */,
-				D71D98311E52ED1B00DF9D5E /* defaultPhoto.png in Resources */,
 				D71D98241E52EAAC00DF9D5E /* Main.storyboard in Resources */,
 				D7BF6A0C1E5820EE0022CCE9 /* ModerateObese.png in Resources */,
 				D7BF6A071E5820EE0022CCE9 /* SevereThinnes.png in Resources */,
